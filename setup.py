@@ -9,7 +9,7 @@ setup(
     install_requires=[
         'aiohttp==3.4.4',
         'hbmqtt==0.9.6',
-        'simplejson',
+        'simplejson==3.17.6',
     ],
 
     package_data={},

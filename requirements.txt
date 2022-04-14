@@ -1,0 +1,6 @@
+aiohttp==3.4.4
+hbmqtt==0.9.6
+websockets==8.1
+aiojobs==1.0.0
+simplejson==3.17.6
+requests==2.27.1
